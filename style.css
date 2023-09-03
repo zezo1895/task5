@@ -6,7 +6,7 @@
 body{
     background-color: #fafafa;
     font-family: 'Work Sans', sans-serif;
-    position: relative;
+    /* position: relative; */
 }
 
 .contient{
@@ -54,7 +54,7 @@ body{
     width: 360px;
     height: 250px;
     background-color: #fff;
-    margin: 25px auto;
+    margin: 15px 780px;
     border-radius: 5px;
     border-top: solid#eb5a5a 5px;
     box-shadow:0 1rem 1.5rem -0.5rem hsla(212, 36%, 64%, 0.4);
@@ -83,7 +83,7 @@ body{
     width: 360px;
     height: 250px;
     background-color: #fff;
-    margin: 25px auto;
+    margin: 15px 780px;
     border-radius: 5px;
     border-top: solid#fcaf4a 5px;
     box-shadow:0 1rem 1.5rem -0.5rem hsla(212, 36%, 64%, 0.4);
@@ -92,24 +92,20 @@ body{
 .article-3{
     width: 360px;
     height: 250px;
-    margin:0px -25px  ;
+    margin:-400px 25px  0 390px ;
     border-radius: 5px;
     border-top: solid#4dd5d5 5px;
     box-shadow:0 1rem 1.5rem -0.5rem hsla(212, 36%, 64%, 0.4);
-    position: absolute;
-    bottom: 135px;
-    left: 400px;
+    position: relative;
+   
 
 }
 .article-4{
     width: 360px;
     height: 250px;
-    margin:0px -25px  ;
+    margin:-250px 0px 0px 1170px;
     border-radius: 5px;
     border-top: solid#5ba2f3 5px;
     box-shadow:0 1rem 1.5rem -0.5rem hsla(212, 36%, 64%, 0.4);
-    position: absolute;
-    right: 400px;
-    bottom: 135px;
-
+    position: relative;
 }
